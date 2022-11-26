@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moovie-search/static/css/main.804e725a.css",
+    "main.js": "/moovie-search/static/js/main.46361efd.js",
+    "index.html": "/moovie-search/index.html",
+    "main.804e725a.css.map": "/moovie-search/static/css/main.804e725a.css.map",
+    "main.46361efd.js.map": "/moovie-search/static/js/main.46361efd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.804e725a.css",
+    "static/js/main.46361efd.js"
+  ]
+}
